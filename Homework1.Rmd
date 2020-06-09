@@ -30,7 +30,7 @@ firstHundred <- 1:100
 >- Find summary information about the bodyweights in our mouse data (hint: names(crusio1) will call the names of each column). What is the max value, what is the minimum value.  
 
 ```{r}
-
+crusio
 ```
 
 >- Bonus/Challenge: What is the Standard Deviation and skewness of the bodyweight?
